@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Govindaraj 👋
 
-<!--
-**govindaraj-mn/govindaraj-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** focused on **LLM Applications, RAG Systems & Agentic Workflows**
 
-Here are some ideas to get you started:
+I build practical AI systems that work in real environments — with proper evaluation, grounding, and production awareness.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Featured Work
+- **RAG-based Incident Intelligence Assistant** → Full pipeline (ingest → chunk → embed → retrieve → generate) with citation grounding & faithfulness evaluation
+- **LLM-Powered AIOps Platform** → Statistical anomaly detection + plain-English incident summaries from Prometheus metrics
+- **Secure MLOps on AWS EKS** → Terraform + ArgoCD + Helm + Trivy/Gitleaks security scanning
+
+### 🛠️ Tech Stack
+**AI / LLM:** OpenAI API, RAG, Prompt Engineering, Vector Search, LLM Evaluation  
+**Backend & Data:** Python, Pandas, NumPy, SQL  
+**MLOps & Cloud:** Docker, Kubernetes (EKS), Terraform, ArgoCD, Helm, AWS  
+**Observability:** Prometheus, Grafana, Alertmanager
+
+### 📫 Connect
+- LinkedIn: [linkedin.com/in/govindaraj-mn](https://linkedin.com/in/govindaraj-mn)
+- Email: govindarajmn7@gmail.com
